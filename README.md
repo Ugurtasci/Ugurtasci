@@ -6,12 +6,7 @@
    - 🚀 I am improving myself in HTML, CSS and JavaScript.
    - 🤝 I am open to teamwork and cooperation.
    - 📚 I focus on constantly improving and learning myself.
-
-🛠️ Technologies:
-   - HTML5
-   - CSS3
-   - JavaScript
-
+     
 💡 Why choose me?
    - I am meticulous in my work and pay attention to details.
    - I have the ability to develop projects quickly and effectively.
